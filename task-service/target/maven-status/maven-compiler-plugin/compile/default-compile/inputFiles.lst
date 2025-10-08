@@ -1,0 +1,8 @@
+D:\JAVA_CW\Taskify\task-service\src\main\java\com\example\task_service\config\SecurityConfig.java
+D:\JAVA_CW\Taskify\task-service\src\main\java\com\example\task_service\controller\TaskController.java
+D:\JAVA_CW\Taskify\task-service\src\main\java\com\example\task_service\model\Task.java
+D:\JAVA_CW\Taskify\task-service\src\main\java\com\example\task_service\repository\TaskRepository.java
+D:\JAVA_CW\Taskify\task-service\src\main\java\com\example\task_service\security\JwtAuthFilter.java
+D:\JAVA_CW\Taskify\task-service\src\main\java\com\example\task_service\service\TaskService.java
+D:\JAVA_CW\Taskify\task-service\src\main\java\com\example\task_service\TaskConsoleClient.java
+D:\JAVA_CW\Taskify\task-service\src\main\java\com\example\task_service\TaskServiceApplication.java
